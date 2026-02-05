@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.fa6ee5e3.js",
+    "main.js": "/static/js/main.1bde6b05.js",
     "static/media/rainier_nice.png": "/static/media/rainier_nice.c63587065f42ae1f0af2.png",
     "static/media/orange.png": "/static/media/orange.e617ca20d451733e40dd.png",
     "static/media/tanya-title.png": "/static/media/tanya-title.8cc54c29e3be7063437e.png",
     "index.html": "/index.html",
-    "main.fa6ee5e3.js.map": "/static/js/main.fa6ee5e3.js.map"
+    "main.1bde6b05.js.map": "/static/js/main.1bde6b05.js.map"
   },
   "entrypoints": [
-    "static/js/main.fa6ee5e3.js"
+    "static/js/main.1bde6b05.js"
   ]
 }
